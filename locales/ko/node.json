@@ -1,0 +1,12 @@
+{
+  "upbitpublic" : {
+    "label" : {
+      "api": "API",
+      "market": "마켓 코드"
+    },
+    "desc" : {
+      "api": "market/all,candles/minutes/1,candles/days,candles/weeks,candles/months,trades/ticks,ticker,orderbook",
+      "market": "마켓 코드 (ex. KRW-BTC, BTC-BCC)"
+    }
+  }
+}
